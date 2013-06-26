@@ -1,3 +1,5 @@
+package reggen
+
 import scala.language.higherKinds
 
 /*
